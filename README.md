@@ -21,4 +21,4 @@ Graduate Studies in the Department of Mathematics at the University of Manitoba
 
   - [Core academic requirements](https://umanitoba.ca/graduate-studies/student-experience/core-academic-requirements)
   - [Supplementary regulations](https://umanitoba.ca/graduate-studies/sites/graduate-studies/files/2021-05/mathematics-supp-regs.pdf) specific to the Department of Mathematics
-  - [Comprehensive examinations](https://github.com/umanitoba-math/grad-studies/blob/main/comprehensive-exams/compexam2022_Oct.pdf) in lieu of an oral candidacy examination
+  - [Comprehensive examinations](https://github.com/umanitoba-math/grad-studies/blob/main/comprehensive-exams) in lieu of an oral candidacy examination

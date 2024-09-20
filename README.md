@@ -16,6 +16,7 @@ Graduate Studies in the Department of Mathematics at the University of Manitoba
   - - [NSERC postgraduate scholarships](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp)
   - - [Research Manitoba](https://researchmanitoba.ca/)
   - - [MITACS](https://www.mitacs.ca/)
+  - [Study Permit (for international applicants)](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html)
 
 ## Academic requirements
 

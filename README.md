@@ -17,7 +17,7 @@ Graduate Studies in the Department of Mathematics at the University of Manitoba
   - - [Research Manitoba](https://researchmanitoba.ca/)
   - - [MITACS](https://www.mitacs.ca/)
   - [Study Permit (for international applicants)](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html)
-  - [Colloquium Google Calendar](https://calendar.google.com/calendar/embed?src=840d5f2e955ab7313f26b18ff3b88a14e0053e77699266b16beacf9841d6815b%40group.calendar.google.com)
+  - [General](https://github.com/umanitoba-math/general)
 
 ## Academic requirements
 

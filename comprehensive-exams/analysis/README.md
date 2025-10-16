@@ -14,3 +14,6 @@
   - [September 2023](https://github.com/umanitoba-math/grad-studies/blob/main/comprehensive-exams/analysis/AnalysisComprehensive2023_09.pdf)
   - [April 2024](https://github.com/umanitoba-math/grad-studies/blob/main/comprehensive-exams/analysis/AnalysisComprehensive2024_04_v1.pdf)
   - [April 2024](https://github.com/umanitoba-math/grad-studies/blob/main/comprehensive-exams/analysis/AnalysisComprehensive2024_04_v2.pdf)
+  - [September 2024](https://github.com/umanitoba-math/grad-studies/blob/main/comprehensive-exams/analysis/AnalysisComprehensive2024_09_v1.pdf)
+  - [September 2024](https://github.com/umanitoba-math/grad-studies/blob/main/comprehensive-exams/analysis/AnalysisComprehensive2024_09_v2.pdf)
+  - [April 2025](https://github.com/umanitoba-math/grad-studies/blob/main/comprehensive-exams/analysis/AnalysisComprehensive2025_04.pdf)
